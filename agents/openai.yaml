@@ -1,0 +1,4 @@
+interface:
+  display_name: "SRO Plus"
+  short_description: "Crea SCN, contenuti HTML e gap analysis per qualsiasi sito secondo i principi SRO"
+  default_prompt: "Aiutami con SCN, contenuti HTML o gap analysis per qualsiasi sito seguendo i principi SRO, E-E-A-T, entity-first SEO e microsemantic writing."
