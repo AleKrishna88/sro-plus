@@ -41,12 +41,11 @@ Fornisci sempre, in quest'ordine:
 - Rispetta la corretta capitalizzazione della lingua.
 - Usa la maiuscola a inizio frase.
 - Usa liste quando utili, ma evita paragrafi composti solo da elenchi.
-- Quando confronti luoghi, monumenti o punti di interesse, usa una tabella.
+- Quando confronti entità o concetti, se opportuno, usa una tabella.
 - Le tabelle devono essere mobile-friendly.
 - Evidenzia le entita chiave con `<strong>`.
 - Evita testo riempitivo.
 - Il contenuto deve restare caldo, coinvolgente e non troppo didascalico.
-- Prima della chiusura dell'articolo, inserisci una frase che inviti a scoprire i viaggi di gruppo WeRoad per la destinazione di riferimento.
 
 ## Regole HTML obbligatorie
 
